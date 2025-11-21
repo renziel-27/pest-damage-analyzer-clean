@@ -1,11 +1,7 @@
 fastapi
 uvicorn
 python-multipart
-<<<<<<< HEAD
 tensorflow-cpu==2.20.0
-=======
-tensorflow==2.15.0
->>>>>>> 2c459e1 (Initial backend commit)
 numpy
 pillow
 opencv-python-headless
